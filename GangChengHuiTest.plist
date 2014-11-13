@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>PuxiTech.GangChengHui</string>
+				<string>Puxitech.GangChengHui</string>
 				<key>bundle-version</key>
 				<string>1.1.2</string>
 				<key>kind</key>
