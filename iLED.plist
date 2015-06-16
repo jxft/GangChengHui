@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.gangchenghui.com/pub/iLED@2x.png</string>
+					<string>http://www.gangchenghui.com/pub/iLEDIcon@2x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://www.gangchenghui.com/pub/iLED.png</string>
+					<string>http://www.gangchenghui.com/pub/iLEDIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
